@@ -1,12 +1,12 @@
-# Neuronal-functional-connectivity
+# Neuronal-functional-correlation
 
-Code and Data for "Stable visual representation by cortex-wide neuronal functional connectivity"
+Code and Data for "Stable visual representations correlate with mesoscale neuronal coordination"
 
 Project Overview
 
 This repository provides the source code and analysis pipeline for our study on how the brain maintains stable representations despite neural variability. We address the fundamental question of how stable perception arises from noisy, single-neuron activity.
 
-Our work proposes and validates that the solution lies not in individual neuron activity, but in **dynamic neuronal functional connectivity (NFC)**—the transient, coordinated interactions between neurons. This repository contains the tools to replicate our findings, which demonstrate that these network-level patterns provide a robust and stable neural code.
+Our work proposes and validates that the solution lies not in individual neuron activity, but in **dynamic neuronal functional correlation (NFC)**—the transient, coordinated interactions between neurons. This repository contains the tools to replicate our findings, which demonstrate that these network-level patterns provide a robust and stable neural code.
 
 
 Directory Structure
